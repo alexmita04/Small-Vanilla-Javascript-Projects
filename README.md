@@ -3,12 +3,12 @@
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Background Slider](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Background%20Slider)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
-| 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
-| 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
-| 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
-| 05  | [Blurry Loading](https://github.com/bradtraversy/50projects50days/tree/master/blurry-loading)                               | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
-| 06  | [Scroll Animation](https://github.com/bradtraversy/50projects50days/tree/master/scroll-animation)                           | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
-| 07  | [Split Landing Page](https://github.com/bradtraversy/50projects50days/tree/master/split-landing-page)                       | [Live Demo](https://50projects50days.com/projects/split-landing-page/)            |
+| 02  | [Blurry Loading](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Blurry%20Loading)                |
+| 03  | [Custom Range Slider](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Custom%20Range%20Slider) |
+| 04  | [Dad Jokes](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Dad%20Jokes)          |
+| 05  | [Drag n Drop](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Drag%20n%20Drop)                |
+| 06  | [Drawing App](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Drawing%20App)              |
+| 07  | [Drink Water](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Drink%20Water)            |
 | 08  | [Form Wave](https://github.com/bradtraversy/50projects50days/tree/master/form-input-wave)                                         | [Live Demo](https://50projects50days.com/projects/form-wave/)                     |
 | 09  | [Sound Board](https://github.com/bradtraversy/50projects50days/tree/master/sound-board)                                     | [Live Demo](https://50projects50days.com/projects/sound-board/)                   |
 | 10  | [Dad Jokes](https://github.com/bradtraversy/50projects50days/tree/master/dad-jokes)                                         | [Live Demo](https://50projects50days.com/projects/dad-jokes/)                     |
