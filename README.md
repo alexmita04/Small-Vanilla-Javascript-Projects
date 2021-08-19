@@ -11,7 +11,7 @@
 | 07  | [Drink Water](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Drink%20Water)                             | [Live Demo]() |
 | 08  | [Event Keycodes](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Event%20Keycodes)                       | [Live Demo]() |
 | 09  | [Expanding Cards](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Expanding%20Cards)                     | [Live Demo]() |
-| 10  | [Form Input Wave](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Expanding%20Cards)                     | [Live Demo]() |
+| 10  | [Form Input Wave](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Form%20Input%20Wave)                     | [Live Demo]() |
 | 11  | [Github Profiles](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Github%20Profiles)                     | [Live Demo]() |
 | 12  | [Hidden Search](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Hidden%20Search)                         | [Live Demo]() |
 | 13  | [Hoverboard](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Hoverboard)                                 | [Live Demo]() |
