@@ -2,7 +2,7 @@
 
 |  #  | Project                                                                                                                            | Live Demo     |
 | :-: | ---------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| 01  | [Background Slider](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Background%20Slider)                 | [Live Demo]() |
+| 01  | [Background Slider](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Background%20Slider)                 | [Live Demo]("https://musing-shirley-d63a9f.netlify.app/") |
 | 02  | [Blurry Loading](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Blurry%20Loading)                       | [Live Demo]() |
 | 03  | [Custom Range Slider](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Custom%20Range%20Slider)           | [Live Demo]() |
 | 04  | [Dad Jokes](https://github.com/alexmita04/Small-Vanilla-Javascript-Projects/tree/main/Dad%20Jokes)                                 | [Live Demo]() |
